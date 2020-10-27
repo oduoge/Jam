@@ -1,1 +1,1 @@
-随笔，随心，随缘
+Prepare for [game jam](https://itch.io/jam/game-off-2020)
